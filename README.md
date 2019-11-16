@@ -12,7 +12,7 @@ npm init -y
 
 以下の通り、2通りあります。
 
-## 手動インストール
+### 手動インストール
 
 ```
 npm i express body-parser
@@ -23,7 +23,7 @@ npm i express body-parser
 例）ローカル実行なら
 public/index.html = http://localhost:8080/index.html
 
-## 自動
+### 自動インストール
 
 package.json にインストールされたものは登録されているので
 
